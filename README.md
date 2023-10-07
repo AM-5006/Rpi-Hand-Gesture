@@ -11,7 +11,7 @@ To get started with the project, follow these steps:
 1. **Prerequisites:**
    - Raspberry Pi with a camera module.
    - Python installed on your Raspberry Pi.
-   If you haven't set up the camera module on your Raspberry Pi yet, you can follow this [article on setting up the camera module] (https://www.digikey.in/en/maker/blogs/2021/how-to-connect-a-camera-to-a-raspberry-pi) to get started.
+   If you haven't set up the camera module on your Raspberry Pi yet, you can follow this [article on setting up the camera module](https://www.digikey.in/en/maker/blogs/2021/how-to-connect-a-camera-to-a-raspberry-pi) to get started.
 
 2.  **Installation:**
     Clone the repository to your Raspberry Pi.
