@@ -19,7 +19,7 @@ To get started with the project, follow these steps:
       git clone https://github.com/AM-5006/Rpi-Hand-Gesture.git
       cd Rpi-Hand-Gesture
     ```
-    Install the required dependencies by running the following command: ```pip3 install -r requirements.txt```
+    Install the required dependencies by running the following command: ```bash pip3 install -r requirements.txt```
 
 3. **Usage:**
    Run the main program using the following command: ```python main.py```
