@@ -1,0 +1,11 @@
+# OpenCV for image processing
+opencv-python==4.5.1.48
+
+# Mediapipe for computer vision and machine learning
+mediapipe==0.8.3
+
+# PyAutoGUI for GUI automation
+pyautogui==0.9.52
+
+# RPi.GPIO for Raspberry Pi GPIO control
+RPi.GPIO==0.7.0
